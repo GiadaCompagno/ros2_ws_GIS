@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>gis_bringup</name>
+  <version>0.0.1</version>
+  <description>Launch e configuration for acquisition with RoboSense Airy and LIO</description>
+  <maintainer email="giada.compagno@unipd.it">Giada</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <exec_depend>rslidar_sdk</exec_depend>
+  <exec_depend>rko_lio</exec_depend>
+  <exec_depend>tf2_ros</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
