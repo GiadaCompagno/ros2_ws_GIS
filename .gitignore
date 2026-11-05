@@ -20,3 +20,9 @@ bags/
 
 # Log
 *.log
+
+# External repositories managed by robot.repos
+/src/rko_lio/
+/src/rko_slam/
+/src/rslidar_msg/
+/src/rslidar_sdk/
