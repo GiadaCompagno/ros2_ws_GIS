@@ -1,0 +1,22 @@
+# ROS 2 / Colcon
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# ROS 2 Bags
+bags/
+*.bag
+*.db3
+
+# Point Cloud Data
+*.pcd
+
+# Log
+*.log
