@@ -15,3 +15,7 @@ repositories:
     type: git
     url: https://github.com/RoboSense-LiDAR/rslidar_sdk.git
     version: 8b4b4b7ff910799260347821084c59e1c73d50d5
+  FAST_LIO:
+    type: git
+    url: https://github.com/hku-mars/FAST_LIO.git
+    version: cc3c9e8b1469b33b8072764d6db2348ed6dc597f
